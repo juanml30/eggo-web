@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eggo-web/static/css/main.073c9b0a.css",
+    "main.css": "/eggo-web/static/css/main.5bbae7d2.css",
     "main.js": "/eggo-web/static/js/main.7e071042.js",
     "static/js/787.7b363ba4.chunk.js": "/eggo-web/static/js/787.7b363ba4.chunk.js",
     "static/media/logo.svg": "/eggo-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/eggo-web/index.html",
-    "main.073c9b0a.css.map": "/eggo-web/static/css/main.073c9b0a.css.map",
+    "main.5bbae7d2.css.map": "/eggo-web/static/css/main.5bbae7d2.css.map",
     "main.7e071042.js.map": "/eggo-web/static/js/main.7e071042.js.map",
     "787.7b363ba4.chunk.js.map": "/eggo-web/static/js/787.7b363ba4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.5bbae7d2.css",
     "static/js/main.7e071042.js"
   ]
 }
