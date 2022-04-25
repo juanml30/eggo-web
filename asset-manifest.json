@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.224bcfe2.css",
-    "main.js": "/static/js/main.8c870dd1.js",
+    "main.js": "/static/js/main.c4b0892e.js",
     "static/js/787.7b363ba4.chunk.js": "/static/js/787.7b363ba4.chunk.js",
     "static/media/logoPagina(1).png": "/static/media/logoPagina(1).ea54c458ec9f952e9cac.png",
+    "static/media/logo-eggo-pagina.png": "/static/media/logo-eggo-pagina.2f3525b2a6c29c7cd2c6.png",
+    "static/media/remera1.jpeg": "/static/media/remera1.1292a56e251bdd8f857c.jpeg",
+    "static/media/remera2.jpeg": "/static/media/remera2.75a04d6b0349365c65e6.jpeg",
+    "static/media/remera3.jpeg": "/static/media/remera3.e6cfc879c744e96d7abc.jpeg",
+    "static/media/remera4.jpeg": "/static/media/remera4.3ffffef3c84ea9032d71.jpeg",
+    "static/media/remera6.jpeg": "/static/media/remera6.c7e9c659f0c7daaf7666.jpeg",
+    "static/media/remera5.jpeg": "/static/media/remera5.c1c50c795432dfff7c65.jpeg",
     "static/media/whatsapp.png": "/static/media/whatsapp.43a4918296128915afbb.png",
     "index.html": "/index.html",
     "main.224bcfe2.css.map": "/static/css/main.224bcfe2.css.map",
-    "main.8c870dd1.js.map": "/static/js/main.8c870dd1.js.map",
+    "main.c4b0892e.js.map": "/static/js/main.c4b0892e.js.map",
     "787.7b363ba4.chunk.js.map": "/static/js/787.7b363ba4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.224bcfe2.css",
-    "static/js/main.8c870dd1.js"
+    "static/js/main.c4b0892e.js"
   ]
 }
